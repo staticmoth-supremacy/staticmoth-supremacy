@@ -19,8 +19,8 @@
     <img src="https://github.com/staticmoth-supremacy/EV.EVSY/blob/main/6.png"> 
       <img src="https://github.com/staticmoth-supremacy/EV.EVSY/blob/main/8.png"> 
     </p>
-<strong>「 𝐙𝐡𝐞𝐧𝐲𝐚 」୨ৎ ⋮ 𝐒𝐡𝐞/𝐇𝐞 ࿔* ┆  𝐢𝐥𝐥𝐮𝐬𝐭𝐫𝐚𝐭𝐨𝐫 • 𝐚𝐫𝐭𝐢𝐬𝐭・. ✧ </strong>
-</div>
+<strong>「 𝐙𝐡𝐞𝐧𝐲𝐚 」୨ৎ ⋮ 𝐒𝐡𝐞/𝐇𝐞 ࿔* ┆ 𝐩𝐨𝐨𝐫 𝐞𝐧𝐠𝐥𝐢𝐬𝐡 • 𝐢𝐥𝐥𝐮𝐬𝐭𝐫𝐚𝐭𝐨𝐫 • 𝐚𝐫𝐭𝐢𝐬𝐭・. ✧ </strong>
+</div> 
 
 ***<p align="center"> 𝐪𝐮𝐢𝐞𝐭 𝐮𝐬𝐮𝐚𝐥𝐥𝐲 ◡ 𝐛𝐮𝐭 𝐢'𝐦 𝐚𝐥𝐰𝐚𝐲𝐬 𝐂+𝐇 𝐟𝐫𝐞𝐞. </p>***
  
