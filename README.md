@@ -1,9 +1,7 @@
 <p align="Center">
 <img src="https://img.shields.io/badge/EV.EVSY-ARTIST-orange?style=plastic"
   </p>
-
-<p align="center"> <code style="color" : lightskyblue">𝑭𝒐𝒍𝒍𝒐𝒘 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 𝒇𝒐𝒓 𝑭𝑹𝑬𝑬, 𝒐𝒓 𝑰'𝒍𝒍 𝒈𝒆𝒕 𝒚𝒐𝒖! 😈 </code>  </p>
-
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=710A0A&width=735&lines=𝑭𝒐𝒍𝒍𝒐𝒘+𝒎𝒚+𝑮𝒊𝒕𝑯𝒖𝒃+𝒇𝒐𝒓+𝑭𝑹𝑬𝑬,+𝒐𝒓+𝑰'𝒍𝒍+𝒈𝒆𝒕+𝒚𝒐𝒖!+😈" alt="Typing SVG" /></a>
 
 <p align="center">
 <img src="https://github.com/staticmoth-supremacy/EV.EVSY/blob/main/1.png"
